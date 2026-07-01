@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0494/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0494/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經
+  identifiers:
+    krp: KR6j0494
+    cbeta: T21n1264a
+    cbeta_old_id: T21n1264a
+    authorityid: CA0001259
+    json_key: T1264a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1264a.xml
+    old_id: T21n1264a
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0494_000-T.yaml, hash: 'sha256:0f4cb45b6d1d8b1b4a5597b3884615fdca7fd55be81e97cf0ccec9d0645eaeda'}
+  - {seq: 1, filename: KR6j0494_001-T.yaml, hash: 'sha256:53defdb41c37a78705dd059ffae18bccba546c390956bcb8285cbaba7fa3bc7f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0494_000-T.markers.yaml, hash: 'sha256:7b63664747ffc343e1a891d700b8ee1c179952cfa5cd6805cee24b0a9b7e32a8'}
+  - {seq: 1, role: markers, filename: assets/KR6j0494_001-T.markers.yaml, hash: 'sha256:ab8cc175bb3ffdeee8cc265722ec6f6ee67a517758dedd006b9fbd5032d56332'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0494_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 716
+  label: '觀自在菩薩化身蘘麌哩曳童女
+
+    銷伏毒害陀羅尼經'
+  type: juan
+  level: 1
+hash: sha256:7aa9390219d48253b2d1d7956a2c7f2a3ffc1db14ff693f3c4c75a275d06ee8f
