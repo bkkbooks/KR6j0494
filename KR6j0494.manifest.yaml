@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0494_000.yaml, hash: 'sha256:0f4cb45b6d1d8b1b4a5597b3884615fdca7fd55be81e97cf0ccec9d0645eaeda'}
-  - {seq: 1, filename: KR6j0494_001.yaml, hash: 'sha256:c5daf2dc9b59691cbfc08d239f0c1d9d7856aa5f670c1902ba1bf310b3cb9e4a'}
+  - {seq: 1, filename: KR6j0494_001.yaml, hash: 'sha256:53defdb41c37a78705dd059ffae18bccba546c390956bcb8285cbaba7fa3bc7f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0494_001.markers.yaml, hash: 'sha256:d7f5df0f1190f0ec6767357d39f79ea628126d783042db4ecdd47f887f5a8f7a'}
+  - {seq: 0, role: markers, filename: assets/KR6j0494_000.markers.yaml, hash: 'sha256:fdd82064853a0f19a87d4b9837e586211aad4fb48e7a471d9b3a6f6e2df8559a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0494_001.markers.yaml, hash: 'sha256:463c9558b5eabdfbd79f181183aca53ce3f1111982bdb5f7cfc3cd640cd61875'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,9 +34,6 @@ table_of_contents:
     銷伏毒害陀羅尼經'
   type: juan
   level: 1
-hash: sha256:ad51ae84de0a0d59b5d3bc672707dd4173843bc10661ae142158d7edbae01b08
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b57c830e8037c975eea335e35821ecdcda2c898fba2f009ecb94f57edb967f85
 editions:
 - short: T
