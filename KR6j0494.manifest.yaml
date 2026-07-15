@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0494/v1
 canonical_location: https://kanripo.org/bkk/KR6j0494/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0494_000.yaml, hash: 'sha256:0f4cb45b6d1d8b1b4a5597b3884615fdca7fd55be81e97cf0ccec9d0645eaeda'}
-  - {seq: 1, filename: KR6j0494_001.yaml, hash: 'sha256:53defdb41c37a78705dd059ffae18bccba546c390956bcb8285cbaba7fa3bc7f'}
+  - {seq: 1, filename: KR6j0494_001.yaml, hash: 'sha256:b46ec0c779e76196125ce94d03a4f1c53dedb111e612d3477a1663fbaee4ae71'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0494_000.markers.yaml, hash: 'sha256:fdd82064853a0f19a87d4b9837e586211aad4fb48e7a471d9b3a6f6e2df8559a'}
-  - {seq: 1, role: markers, filename: assets/KR6j0494_001.markers.yaml, hash: 'sha256:463c9558b5eabdfbd79f181183aca53ce3f1111982bdb5f7cfc3cd640cd61875'}
+  - {seq: 1, role: markers, filename: assets/KR6j0494_001.markers.yaml, hash: 'sha256:6ac444c9afc7e1b86b48cb2f5d66c6b832751e682973aae8ab175dc10f4c11f2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -34,6 +34,9 @@ table_of_contents:
     銷伏毒害陀羅尼經'
   type: juan
   level: 1
-hash: sha256:b57c830e8037c975eea335e35821ecdcda2c898fba2f009ecb94f57edb967f85
+hash: sha256:fa8b7f52e486b72b94bf228b06d77c07f09fb8bb610cba5388a7c7c144115b6b
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
